@@ -1,9 +1,3 @@
----
-title: "readme.md"
-author: "Łukasz Prokulski"
-date: "8 08 2017"
----
-
 **Kim są osoby najbardziej aktywne na fanpage’ach poszczególnych partii?**
 
 Analiza wraz z opisem znajduje się na blogu: [Najbardziej aktywni użytkownicy na stronach partii](http://prokulski.net/index.php/2017/08/08/uzytkownicy_fanpage_partii/)
